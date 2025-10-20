@@ -3,8 +3,8 @@
 
 ---
 
-- About Me: (https://68f602c043b68c9976d2a12f--devikarajkumar.netlify.app/)
-
+- About Me: https://68f602c043b68c9976d2a12f--devikarajkumar.netlify.app/
+  
 - 🔭 I’m currently working on [Rural Health Assistant](https://github.com/Devika499/RuralHealthAssistant)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Devika499?tab=repositories](https://github.com/Devika499?tab=repositories)

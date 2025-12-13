@@ -5,7 +5,7 @@
 
 - About Me: https://68f602c043b68c9976d2a12f--devikarajkumar.netlify.app/
   
-- 🔭 I’m currently working on [Rural Health Assistant](https://github.com/Devika499/RuralHealthAssistant)
+- 🔭 I’m currently working on [Delay Tolerant FL for Rural Health Monitoring](https://github.com/Devika499/Delay-tolerant-FL)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Devika499?tab=repositories](https://github.com/Devika499?tab=repositories)
 
